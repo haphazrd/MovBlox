@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="title_background_color">#FF6666</color>
+    <color name="text_default_color">#FFFFFF</color>
+    <color name="text_default_color_dark">#222222</color>
+    <color name="game_title_color">#FFFFCC</color>
+    <color name="text_pressed_color">#FFFFCC</color>
+    <color name="text_pressed_color_dark">#FFFFFF</color>
+    <color name="playable_background">#333333</color>
+
+    <color name="darker_black_background_color">#222222</color>
+    <color name="lighter_black_background_color">#666666</color>
+    <color name="switchtheme_color">#66cc66</color>
+</resources>

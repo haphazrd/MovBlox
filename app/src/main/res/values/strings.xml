@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">MovBlox</string>
+    <string name="app_id">574960796752</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="game_title_text">MovBlox</string>
+    <string name="title_text">MovBlox</string>
+    <string name="cont_desc_blox_man">Blox Man</string>
+    <string name="play_button_text">PLAY</string>
+    <string name="setting_button_text">SETTINGS</string>
+    <string name="store_button_text">ACHIEVEMENTS</string>
+    <string name="title_activity_select_level">Select Level</string>
+    <string name="cont_desc_blox_man_levels">Box Man</string>
+    <string name="title_activity_play">Play</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lives_left_text">Lives Left: &#8212;</string>
+    <string name="play_again_text">Play Again</string>
+    <string name="home_text">Home</string>
+
+    <string name="wait_text">Oh no! You\'re out of lives</string>
+    <string name="come_back_text">Get more lives in</string>
+
+    <string name="restart_warning_text">Are you sure you want to restart? You will lose a life</string>
+
+    <string name="game_lives_data">
+        com.haphazrd.movblox.GAME_DATA
+    </string>
+    <string name="lives_left_data">LIVES_LEFT</string>
+    <item type="integer" name="lives_left_default">3</item>
+
+    <string name="settings_data">com.haphazrd.movblox.SETTINGS_DATA</string>
+    <string name="music_checked">MUSIC_CHECKED</string>
+    <string name="sound_fx_checked">SOUND_FX_CHECKED</string>
+    <string name="color_blind_checked">COLOR_BLIND_CHECKED</string>
+
+    <string name="level_data">com.haphazrd.movblox.LEVEL_DATA</string>
+    <string name="level_unlocked_data">LEVEL_UNLOCKED</string>
+    <string name="current_level_text">LEVEL 0</string>
+    <string name="current_time_text">0:00</string>
+    <string name="won_game_text">Congratulations!</string>
+    <string name="time_bonus_text">Time Remaining: +0</string>
+    <string name="select_level_text">Select Level</string>
+    <string name="go_home_text">Go Home</string>
+    <string name="wait_time_text">30:00</string>
+    <string name="collect_lives_text">Collect</string>
+    <string name="cancel_text">Cancel</string>
+    <string name="restart_text">Restart</string>
+    <string name="close_text">Close</string>
+    <string name="music_text">Music</string>
+    <string name="sound_fx_text">SoundFX</string>
+    <string name="color_blind_text">Color Blind</string>
+    <string name="settings_title">MovBlox Settings</string>
+    <string name="tutorial_settings_text">Tutorials</string>
+    <string name="locked_text">LOCKED</string>
+    <string name="blank_level_string">LEVEL -</string>
+    <string name="touch_to_start_text">Touch BloxMan to start</string>
+    <item type="integer" name="level_unlocked_default">1</item>
+
+    <item type="integer" name="rating_default">0</item>
+    <string name="title_activity_pop_up_tutorials">PopUpTutorials</string>
+    <string name="tutorial_text">Move BloxMan to the Goal without matching the other blox colors!</string>
+    <string name="tutorial_title_text">How To Play</string>
+
+    <string name="beginner_achievement">CgkI0IjW8t0QEAIQAA</string>
+    <string name="warrior_achievement">CgkI0IjW8t0QEAIQAQ</string>
+    <string name="destroyer_achievement">CgkI0IjW8t0QEAIQAg</string>
+    <string name="champion_achievement">CgkI0IjW8t0QEAIQAw</string>
+    <string name="master_achievement">CgkI0IjW8t0QEAIQBA</string>
+    <string name="fire_achievement">CgkI0IjW8t0QEAIQBQ</string>
+    <string name="survive_achievement">CgkI0IjW8t0QEAIQBg</string>
+    <string name="undead_achievement">CgkI0IjW8t0QEAIQBw</string>
+</resources>
